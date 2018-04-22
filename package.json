@@ -11,15 +11,16 @@
     "url": "git+https://github.com/Vickysolo/cl78-2-firebase-node-express-y-pug.git"
   },
   "author": "@vickysolo",
-  "license": "ISC",
+  "license": "GNU 3.0",
   "bugs": {
     "url": "https://github.com/Vickysolo/cl78-2-firebase-node-express-y-pug/issues"
   },
   "homepage": "https://github.com/Vickysolo/cl78-2-firebase-node-express-y-pug#readme",
   "dependencies": {
-    "body-parser": "^1.5.1",
-    "express": "^4.7.1",
-    "firebase": "^4.13.1",
-    "method-override": "^2.1.2"
+    "body-parser": "1.5.1",
+    "express": "4.7.1",
+    "firebase": "4.13.1",
+    "method-override": "2.1.2",
+    "pug": "2.0.3"
   }
 }
